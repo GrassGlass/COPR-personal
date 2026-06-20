@@ -1,3 +1,5 @@
+# Author: grassglass (https://github.com/GrassGlass)
+# License: GNU GPL-3.0-or-later (https://www.gnu.org/licenses/gpl-3.0.en.html)
 # References: 
 #	1. https://docs.fedoraproject.org/fr/package-maintainers/Packaging_Tutorial_1_banner/
 #	2. https://rpm-packaging-guide.github.io/#what-is-a-spec-file
